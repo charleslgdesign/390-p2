@@ -1,7 +1,7 @@
 {
   "name": "390-p2",
   "version": "0.1.0",
-  "homepage": "https://charleslgdesign.github.io/390-p2",
+  "homepage": "https://charleslgdesign.github.io/390-p2/",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
